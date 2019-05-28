@@ -13,8 +13,8 @@
 
 ### convertip
 转换ip地址的脚本
-    - 将xxx.xxx.xxx.xxx-xxx.xxx.xxx.xxx展开
-    - 将xxx.xxx.xxx.xxx/24展开
+  * 将xxx.xxx.xxx.xxx-xxx.xxx.xxx.xxx展开
+  * 将xxx.xxx.xxx.xxx/24展开
 
 ### network_pg 
 python的网络编程
